@@ -16,5 +16,4 @@ public class Tiket extends Ekspedisi{
     public void setLevel(String level) {
         this.level = level;
     }
-
 }

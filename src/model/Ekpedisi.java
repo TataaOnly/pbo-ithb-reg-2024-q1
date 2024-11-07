@@ -23,6 +23,4 @@ abstract class Ekspedisi {
     public void setBerat(int berat) {
         this.berat = berat;
     }
-
-
 }
